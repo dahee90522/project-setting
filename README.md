@@ -2,7 +2,7 @@
 
 
 ### 설치
-1. `yarn install`
+1. `yarn install / yarn`
 2. `yarn start`
 
 <br />
